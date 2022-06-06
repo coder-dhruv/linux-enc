@@ -1,2 +1,3 @@
 # linux-enc
-linux encryption then add chat
+chat with linux encryption
+
