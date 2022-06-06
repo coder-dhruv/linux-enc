@@ -1,4 +1,4 @@
-echo "Hello! What would you like to do: (1) Encrypt new file (2) Decrypt existing file: "
+echo "Welcome! What would you like to do: (1) Encrypt new file (2) Decrypt existing file: "
 read numchoice 
 
 if [ $numchoice == "1"  ]; 
